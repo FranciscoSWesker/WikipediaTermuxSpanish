@@ -6,7 +6,6 @@
 <p align="center">
 <a href="https://github.com/DeepSociety-https://github.com/x3r0x-hispgatos/">
 </p>
-
 <div align="center">
 <a href="#"><img title="Version" src="https://img.shields.io/badge/Version-1.0-green.svg?style=flat-square"></a>
 <a href="https://github.com/HiddenSt4r/wiki-termux/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/HiddenSt4r/wiki-termux?color=red&style=flat-square"></a>
