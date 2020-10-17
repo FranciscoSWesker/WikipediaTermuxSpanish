@@ -1,4 +1,4 @@
-# wiki-termux
+# Wiki-Termux-Spanish
 
 <p align="center">
 <a href="#"><img title="wiki" src="https://emailspoofbyharris.000webhostapp.com/pro/wiki.jpg"></a>
@@ -20,7 +20,7 @@
 ## Sobre wiki-termux:
 
 #### Este es un script que contiene una guía para las personas que recien usan una terminal
-#### No solo es una guía de termux, también de distintas terminales😛
+#### No solo es una guía de termux, también de distintas terminales.
 
 ## En su menú podemos encontrar:
 
@@ -57,4 +57,4 @@
 * `chmod 771 wiki`
 * `./wiki`
 
-##### No olvides compartir el script😛
+##### No olvides compartir el script.
