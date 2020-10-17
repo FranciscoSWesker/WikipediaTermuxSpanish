@@ -1,7 +1,4 @@
 # Wiki-Termux-Spanish
-
-<p align="center">
-<a href="#"><img title="wiki" src="https://emailspoofbyharris.000webhostapp.com/pro/wiki.jpg"></a>
 </p>
 <p align="center">
 <a href="https://github.com/DeepSociety-https://github.com/x3r0x-hispgatos/">
@@ -44,7 +41,7 @@
 # Instalación(termux):
 
 * `pkg install git -y`
-* `git clone https://github.com/DeepSociety/wiki-termux`
+* `git clone https://github.com/x3r0x-hispgatos/WikipediaTermuxSpanish/`
 * `cd wiki-termux`
 * `chmod 771 wiki`
 * `./wiki`
