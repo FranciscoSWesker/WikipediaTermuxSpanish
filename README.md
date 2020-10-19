@@ -44,6 +44,6 @@
 * `git clone https://github.com/x3r0x-hispgatos/WikipediaTermuxSpanish/`
 * `cd wiki-termux`
 * `chmod 771 wiki`
-* `./wiki`
+* `bash wiki`
 
 ##### No olvides compartir el script.
