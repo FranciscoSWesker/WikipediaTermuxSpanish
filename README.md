@@ -41,7 +41,7 @@
 # Instalación(termux):
 
 * `pkg install git -y`
-* `git clone https://github.com/x3r0x-hispgatos/WikipediaTermuxSpanish/`
+* `git clone https://gitlab.com/x3r0x-Hispagatos/WikipediaTermuxSpanish`
 * `cd wiki-termux`
 * `chmod 771 wiki`
 * `bash wiki`
