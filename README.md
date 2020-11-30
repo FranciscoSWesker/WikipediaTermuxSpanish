@@ -1,7 +1,7 @@
 # Wiki-Termux-Spanish
 </p>
 <p align="center">
-<a href="https://github.com/DeepSociety-https://github.com/x3r0x-hispgatos/">
+<a href="https://github.com/x3r0x-hispgatos/">
 <a href="#"><img title="Open Source" src="https://img.shields.io/badge/Open%20Source-%E2%9D%A4-green?style=for-the-badge"></a>
 </p>
 </div>
